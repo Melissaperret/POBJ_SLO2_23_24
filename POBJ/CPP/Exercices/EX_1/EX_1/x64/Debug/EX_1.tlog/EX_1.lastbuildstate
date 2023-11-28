@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.32.31326:TargetPlatformVersion=10.0.19041.0:
-Debug|x64|C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\CPP\Exercices\EX_1\|
-=======
-PlatformToolSet=v143:VCToolArchitecture=Native64Bit:VCToolsVersion=14.32.31326:TargetPlatformVersion=10.0.19041.0:
-Debug|x64|C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\CPP\Exercices\EX_1\|
->>>>>>> 58d437efaba8f99ca29ce46ca2cea48f3172618e
+Debug|x64|C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\CPP\Exercices\EX_1\EX_1\|
