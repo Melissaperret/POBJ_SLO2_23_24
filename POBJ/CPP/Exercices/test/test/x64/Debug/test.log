@@ -1,0 +1,19 @@
+﻿  Source.cpp
+C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\CPP\Exercices\test\test\Source.cpp(23,1): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
+C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\CPP\Exercices\test\test\Source.cpp(41,7): error C2039: 'cout' n'est pas membre de 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\string(24): message : voir la déclaration de 'std'
+C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\CPP\Exercices\test\test\Source.cpp(41,12): error C2065: 'cout' : identificateur non déclaré
+C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\CPP\Exercices\test\test\Source.cpp(41,41): error C2039: 'endl' n'est pas membre de 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\string(24): message : voir la déclaration de 'std'
+C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\CPP\Exercices\test\test\Source.cpp(41,45): error C2065: 'endl' : identificateur non déclaré
+C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\CPP\Exercices\test\test\Source.cpp(44,7): error C2039: 'cin' n'est pas membre de 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\string(24): message : voir la déclaration de 'std'
+C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\CPP\Exercices\test\test\Source.cpp(44,11): error C2065: 'cin' : identificateur non déclaré
+C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\CPP\Exercices\test\test\Source.cpp(45,7): error C2039: 'cin' n'est pas membre de 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\string(24): message : voir la déclaration de 'std'
+C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\CPP\Exercices\test\test\Source.cpp(45,11): error C2065: 'cin' : identificateur non déclaré
+C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\CPP\Exercices\test\test\Source.cpp(46,7): error C2039: 'cin' n'est pas membre de 'std'
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.32.31326\include\string(24): message : voir la déclaration de 'std'
+C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\CPP\Exercices\test\test\Source.cpp(46,11): error C2065: 'cin' : identificateur non déclaré
+C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\CPP\Exercices\test\test\Source.cpp(50,25): warning C4267: '=' : conversion de 'size_t' en 'int', perte possible de données
+C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\CPP\Exercices\test\test\Source.cpp(52,26): warning C4267: '=' : conversion de 'size_t' en 'short', perte possible de données
