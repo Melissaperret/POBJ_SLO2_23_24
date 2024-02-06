@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex_4_Reprise_Cpp", "Ex_4_Reprise_Cpp\Ex_4_Reprise_Cpp.csproj", "{6F0D5773-57DD-44F9-903D-CB0FDBBE7358}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F0D5773-57DD-44F9-903D-CB0FDBBE7358}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F0D5773-57DD-44F9-903D-CB0FDBBE7358}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F0D5773-57DD-44F9-903D-CB0FDBBE7358}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F0D5773-57DD-44F9-903D-CB0FDBBE7358}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE502131-5F86-4E48-AAB9-79AB2FC4EE0D}
+	EndGlobalSection
+EndGlobal

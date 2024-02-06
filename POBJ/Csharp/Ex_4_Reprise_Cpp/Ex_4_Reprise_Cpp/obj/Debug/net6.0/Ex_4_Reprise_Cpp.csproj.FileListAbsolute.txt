@@ -1,0 +1,5 @@
+C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\Csharp\Ex_4_Reprise_Cpp\Ex_4_Reprise_Cpp\obj\Debug\net6.0\Ex_4_Reprise_Cpp.csproj.AssemblyReference.cache
+C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\Csharp\Ex_4_Reprise_Cpp\Ex_4_Reprise_Cpp\obj\Debug\net6.0\Ex_4_Reprise_Cpp.GeneratedMSBuildEditorConfig.editorconfig
+C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\Csharp\Ex_4_Reprise_Cpp\Ex_4_Reprise_Cpp\obj\Debug\net6.0\Ex_4_Reprise_Cpp.AssemblyInfoInputs.cache
+C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\Csharp\Ex_4_Reprise_Cpp\Ex_4_Reprise_Cpp\obj\Debug\net6.0\Ex_4_Reprise_Cpp.AssemblyInfo.cs
+C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\Csharp\Ex_4_Reprise_Cpp\Ex_4_Reprise_Cpp\obj\Debug\net6.0\Ex_4_Reprise_Cpp.csproj.CoreCompileInputs.cache

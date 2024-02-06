@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Ex_4_Reprise_Cpp
+build_property.ProjectDir = C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\Csharp\Ex_4_Reprise_Cpp\Ex_4_Reprise_Cpp\
