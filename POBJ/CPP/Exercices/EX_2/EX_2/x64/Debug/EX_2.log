@@ -1,7 +1,4 @@
 ﻿  Ex2.cpp
-C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\CPP\Exercices\EX_2\EX_2\Ex2.cpp(16,25): warning C4244: '=' : conversion de 'unsigned long' en 'unsigned short', perte possible de données
-C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\CPP\Exercices\EX_2\EX_2\Ex2.cpp(19,26): warning C4244: '=' : conversion de 'unsigned long' en 'unsigned short', perte possible de données
-C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\CPP\Exercices\EX_2\EX_2\Ex2.cpp(41,21): error C2086: 'unsigned short heures' : redéfinition
-C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\CPP\Exercices\EX_2\EX_2\Ex2.cpp(40): message : voir la déclaration de 'heures'
-C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\CPP\Exercices\EX_2\EX_2\Ex2.cpp(42,21): error C2086: 'unsigned short minutes' : redéfinition
-C:\MPT_PROG\POBJ_SLO2_23_24\POBJ\CPP\Exercices\EX_2\EX_2\Ex2.cpp(40): message : voir la déclaration de 'minutes'
+C:\Users\regna\Desktop\POBJ_MEL\POBJ_SLO2_23_24\POBJ\CPP\Exercices\EX_2\EX_2\Ex2.cpp(16,25): warning C4244: '=' : conversion de 'unsigned long' en 'unsigned short', perte possible de données
+C:\Users\regna\Desktop\POBJ_MEL\POBJ_SLO2_23_24\POBJ\CPP\Exercices\EX_2\EX_2\Ex2.cpp(19,26): warning C4244: '=' : conversion de 'unsigned long' en 'unsigned short', perte possible de données
+  EX_2.vcxproj -> C:\Users\regna\Desktop\POBJ_MEL\POBJ_SLO2_23_24\POBJ\CPP\Exercices\EX_2\x64\Debug\EX_2.exe
