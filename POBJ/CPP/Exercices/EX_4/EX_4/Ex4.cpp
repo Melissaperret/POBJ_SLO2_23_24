@@ -9,8 +9,8 @@
 int main(void)
 {
     Utilisateur UserA, UserB, UserC;
-    std::cout << "Cours CPP exercice 4, Melissa " << std::endl;
 
+    std::cout << "Cours CPP exercice 4, Melissa " << std::endl;
 
     // Actions pour l'utilisateur UserA (TriangleRectangle)
     UserA.ChoisirForme(0);
@@ -18,7 +18,7 @@ int main(void)
     UserA.ExecuterLesCalculs();
     UserA.AfficherResultats();
 
-    // Actions pour l'utilisateur UserB (Rectangle)
+    ////// Actions pour l'utilisateur UserB (Rectangle)
     UserB.ChoisirForme(1);
     UserB.SaisirLesParametres();
     UserB.ExecuterLesCalculs();

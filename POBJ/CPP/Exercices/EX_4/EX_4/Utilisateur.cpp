@@ -45,6 +45,16 @@ void Utilisateur::AfficherResultats()
 
 int Utilisateur::ChoisirForme(int CodeForme)
 {
+    //{
+    //    Cercle test = Cercle(); // Mémoire gérée automatiquement
+    //}
+
+    //{
+    //    Cercle* test = new Cercle(); // Mémoire gérée manuellement
+    //    delete test; // Je libère la zone mémoire pointée par le pointeur
+    //}
+
+
     m_CodeFormeChoisie = CodeForme;
 
     if (m_CodeFormeChoisie == 0)
@@ -113,4 +123,11 @@ void Utilisateur::ExecuterLesCalculs()
     }
 
 
+}
+
+//Destructeur
+Utilisateur::~Utilisateur()
+{
+    //std::cout << "Destructeur de Utilisateur " << myFormesGeometriques << std::endl;
+    delete myFormesGeometriques; // Libérer la mémoire pointée par le pointeur
 }

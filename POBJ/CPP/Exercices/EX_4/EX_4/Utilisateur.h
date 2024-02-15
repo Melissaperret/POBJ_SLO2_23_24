@@ -1,19 +1,23 @@
 #ifndef Utilisateur_h
 #define Utilisateur_h
 
-class FormesGeometriques;
+#include "FormesGeometriques.h"
+
+//class FormesGeometriques;
 
 class Utilisateur {
 
  public:
 
-    void AfficherResultats();
+     void AfficherResultats();
 
     int ChoisirForme(int CodeForme);
 
     void SaisirLesParametres();
 
     void ExecuterLesCalculs();
+
+    ~Utilisateur();
 
 
  private:
@@ -27,7 +31,7 @@ class Utilisateur {
     /**
      * @element-type FormesGeometriques
      */
-    FormesGeometriques *myFormesGeometriques;
+     FormesGeometriques* myFormesGeometriques;
 };
 
 #endif // Utilisateur_h

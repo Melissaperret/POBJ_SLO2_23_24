@@ -8,6 +8,12 @@
     std::cout << "Constructeur du Rectangle" << std::endl;
     }
 
+//Destructeur
+    Rectangle::~Rectangle()
+{
+    std::cout << "Destructeur de Rectangle" << std::endl;
+}
+
 double Rectangle::CalculerSurface(double largeur, double hauteur)
 {
     Surface = largeur * hauteur;

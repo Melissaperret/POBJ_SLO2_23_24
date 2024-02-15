@@ -8,6 +8,12 @@ TriangleRectangle :: TriangleRectangle()
     std::cout << "Constructeur du TriangleRectangle" << std::endl;
 }
 
+//Destructeur
+TriangleRectangle :: ~TriangleRectangle()
+{
+    std::cout << "Destructeur du TriangleRectangle" << std::endl;
+}
+
 double TriangleRectangle::CalculerSurface(double base, double hauteur)
 {
     Surface = 0.5 * base * hauteur;

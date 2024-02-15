@@ -16,6 +16,10 @@ class Cercle : public FormesGeometriques {
 
     // Constructeur
     Cercle();
+
+    // Destructeur
+    ~Cercle(); 
+
 };
 
 #endif // Cercle_h

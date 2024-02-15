@@ -9,6 +9,12 @@ Cercle::Cercle()
     std::cout << "Constructeur de Cercle" << std::endl;
     }
 
+//Destructeur
+Cercle::~Cercle()
+{
+    std::cout << "Destructeur de Cercle" << std::endl;
+}
+
 
 double Cercle::CalculerSurface(double diametre, double null)
 {

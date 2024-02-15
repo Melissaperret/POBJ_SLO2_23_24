@@ -21,7 +21,11 @@ class FormesGeometriques {
         Perimetre = 0.0;
         std::cout << "Constructeur de FormesGeometriques" << std::endl;
     }
-    //virtual ~FormesGeometriques();
+    
+    virtual ~FormesGeometriques()
+    {
+        std::cout << "Destructeur de FormesGeometriques" << std::endl;
+    }
 
  protected:
     double Surface;

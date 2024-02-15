@@ -16,6 +16,9 @@ class TriangleRectangle : public FormesGeometriques {
 
     // Constructeur
     TriangleRectangle();
+
+    // Constructeur
+    ~TriangleRectangle();
 };
 
 #endif // TriangleRectangle_h
