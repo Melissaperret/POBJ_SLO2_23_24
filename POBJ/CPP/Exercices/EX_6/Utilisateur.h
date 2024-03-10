@@ -14,9 +14,6 @@ class Utilisateur {
 
  public:
 
-    /**
-     * @element-type Formes3D
-     */
     Formes3D *MaForme;
 };
 
