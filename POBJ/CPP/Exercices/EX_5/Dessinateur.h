@@ -13,16 +13,14 @@ class Dessinateur {
 
     void DessinerFigure();
 
-    ~Dessinateur();
+    void DetruireFigure();
 
  private:
     signed char m_FigureChoisie;
 
  public:
 
-    /**
-     * @element-type Figure
-     */
+
     Figure *MaFigure;
 };
 

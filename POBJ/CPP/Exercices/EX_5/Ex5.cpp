@@ -20,18 +20,21 @@ int main(void)
 		DessinateurA.SaisirPositionXY(1);
 		DessinateurA.SaisirPositionXY(2);
 		DessinateurA.DessinerFigure();
+		DessinateurA.DetruireFigure();
 		//delete DessinateurA.MaFigure;
 
 		DessinateurB.ConstruireFigure('R');
 		DessinateurB.SaisirPositionXY(1);
 		DessinateurB.SaisirPositionXY(2);
 		DessinateurB.DessinerFigure();
+		DessinateurB.DetruireFigure();
 		//delete DessinateurB.MaFigure;
 
 		DessinateurC.ConstruireFigure('E');
 		DessinateurC.SaisirPositionXY(1);
 		DessinateurC.SaisirPositionXY(2);
 		DessinateurC.DessinerFigure();
+		DessinateurC.DetruireFigure();
 		//delete DessinateurC.MaFigure;
 
 		cout << "Entrez Q pour quitter !" << endl;

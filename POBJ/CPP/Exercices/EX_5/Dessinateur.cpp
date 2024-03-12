@@ -35,9 +35,7 @@ void Dessinateur::DessinerFigure()
 
 
 
-//Destructeur
-Dessinateur::~Dessinateur()
+void Dessinateur::DetruireFigure()
 {
-    delete MaFigure; // Libérer la mémoire pointée par le pointeur
+    delete MaFigure;
 }
-
